@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color:#777;
+    padding: 3rem;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    background-color: #0066aa;
+    height: 95vh;
+    background-image: url(../img/istockphoto-1358440707-640x640.jpg);
+    
+    background-size: cover;
+    clip-path: polygon(50% 0, 100vh 100vh, 0vh  100% 100% 0);
+    position: relative;
+    }
